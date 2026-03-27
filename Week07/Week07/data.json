@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john@example.com",
+    "photo_url": "https://randomuser.me/api/portraits/men/1.jpg",
+    "phone": "+1 234 567 890",
+    "address": "123 Main St, New York, NY"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane@example.com",
+    "photo_url": "https://randomuser.me/api/portraits/women/2.jpg",
+    "phone": "+1 345 678 901",
+    "address": "456 Oak Ave, Los Angeles, CA"
+  },
+  {
+    "id": 3,
+    "name": "Michael Lee",
+    "email": "michael@example.com",
+    "photo_url": "https://randomuser.me/api/portraits/men/3.jpg",
+    "phone": "+1 456 789 012",
+    "address": "789 Pine Rd, Chicago, IL"
+  }
+]
